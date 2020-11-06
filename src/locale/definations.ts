@@ -1,0 +1,1 @@
+export const LANG_HELLO_WORLD = "HELLO_WORLD";
